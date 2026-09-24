@@ -1,0 +1,6 @@
+{
+  "name": "Google Merchandise Store — Streetwear & Pop-Culture Redesign",
+  "description": "Modern, youth-focused e-commerce redesign of the Google Merchandise Store inspired by streetwear aesthetics, curated collections, quick add-to-cart, and full-funnel GA4 tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
